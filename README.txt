@@ -30,9 +30,6 @@ Email_spam_Detection_Model/
 │
 ├── SpamDetection.py # Main script
 ├── spam.csv # Dataset (labelled emails)
-├── preprocess.py # Text preprocessing functions
-├── model.pkl # Saved ML model
-├── vectorizer.pkl # TF-IDF or CountVectorizer object
 └── README.md # Project documentation
 
 bash
